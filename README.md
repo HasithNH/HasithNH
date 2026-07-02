@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hasith_nenoda" target="blank"><img src="https://img.shields.io/twitter/follow/hasith_nenoda?logo=twitter&style=for-the-badge" alt="hasith_nenoda" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Full Stack Development**
 
